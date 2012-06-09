@@ -1,6 +1,6 @@
 [user]
-  name = Pairing Machine
-  email = pairing@edgecase.com
+  name = Christophe Boutter
+  email = boutta@gmail.com
 
 [color]
   branch = auto
@@ -28,7 +28,7 @@
 
 [core]
   legacyheaders = false
-  excludesfile  = /Users/pairing/.gitignore
+  excludesfile  = /Users/boutta/.gitignore
 
 [repack]
   usedeltabaseoffset = true
@@ -39,7 +39,7 @@
   ci   = commit
   co   = checkout
   df   = diff
-  mine = log --author=Pairing
+  mine = log --author=Christophe
   st   = status
   lg   = log --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --graph --abbrev-commit --date=relative  
   put  = "push origin HEAD"
